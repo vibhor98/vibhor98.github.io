@@ -14,4 +14,4 @@ category:
 author: vibhor98
 ---
 
-* Using graph learning and NLP techniques to analyze online discussions and formulate polarity prediction problem for the moderation of debates and discussions at scale.
+An on-going research project to use graph learning and NLP techniques to analyze online discussions and formulate polarity prediction problem for the moderation of debates and discussions at scale.
