@@ -14,4 +14,4 @@ category:
 author: vibhor98
 ---
 
-* Using annotators’ matrix with transformer models for NLP to model different annotators’ perspectives in subjective tasks like hate speech detection to improve the model performance.
+An on-going research project to use annotators’ matrix with transformer models for NLP to model different annotators’ perspectives in subjective tasks like hate speech detection to improve the model performance.
