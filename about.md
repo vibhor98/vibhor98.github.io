@@ -4,9 +4,10 @@ layout: page
 ---
 ![Profile Image](assets/images/vibh_profile.jpg)
 
-<p>Hello World! I am Vibhor Agarwal, currently working as Site Reliability Engineer at Media.net (Directi) in Mumbai, India. I graduated with Computer Science and Engineering (B. Tech.) degree from The LNMIIT, Jaipur in June 2020. My honours include a Bachelor's Best Thesis Award and an overall CGPA of 9.45 out of 10. I was also a Google Summer of Code developer in 2018 and contributed to the open source project, Oppia.</p>
+<p>Hello World! I am Vibhor Agarwal, a PhD Researcher in Computer Science at University of Surrey, UK, working with <a href="https://nishrs.github.io/">Prof. Nishanth Sastry</a>. My research interests are in Machine Learning and Natural Language Processing to analyze online discussions, leverage GraphML for large-scale moderation of online debates, hate speech and misogyny detection. Besides, I am also interested in Privacy-preserving Machine Learning, Computational Social Science, and Privacy on the Web.</p>
 
-<p>I am mainly interested in Machine Learning and Distributed Systems. I (mostly) code in Python and love to solve real world problems with technical solutions. Besides machine learning, I am also interested in Privacy and Security on the Web, and Computational Social Sciences.</p>
+<p>Previously, I worked as Site Reliability Engineer at Media.net (Directi) in Mumbai, India. In June 2020, I graduated with a Computer Science and Engineering (B. Tech.) degree from The LNMIIT, Jaipur. My honours include Best Bachelor's Thesis Award and an overall CGPA of 9.45 out of 10. I was also a Google Summer of Code developer in 2018 and contributed to the open source project, Oppia.</p>
+
 
 <h2>Research Publications</h2>
 
@@ -19,11 +20,13 @@ layout: page
 <h2>Awards</h2>
 
 <ul>
-	<li>PyCon US 2020 Travel Grant to attend the largest Python Conference in the world and present my poster titled, "Video Surveillance System for Female Security 		using Keras"</li>
-	<li>Quarter Finalist in India Innovation Challenge Design Contest’ 2018 organised by Department of Science and Technology and IIM Bangalore for our robust ‘Pro-		active Video Surveillance System’</li>
-	<li>Meritorious Certification and Scholarship for securing position in top 1 percentile at LNMIIT, Jaipur</li>
-	<li>Certificate of Appreciation for Google Summer of Code’ 18 at LNMIIT, Jaipur</li>
-	<li>Earned Silver Medal at State level Mental Ability Competition (Abacus)</li>
+	<li>Received funded <b>PhD studentship</b> at University of Surrey, UK.</li>
+	<li>Received the <b>Best Bachelor’s Thesis Award</b> in the graduated class of 2020 at LNMIIT, Jaipur, India.</li>
+	<li>Awarded <b>PyCon US 2020 scholarship</b> to attend the largest Python Conference in the world and present my poster titled, "Video Surveillance System for Female Security using Keras"</li>
+	<li><b>Quarter Finalist in India Innovation Challenge Design Contest’ 2018</b> organised by Department of Science and Technology and IIM Bangalore for our robust ‘Pro-		active Video Surveillance System’</li>
+	<li>Awarded <b>Meritorious Certification and Scholarship</b> for securing position in top 1 percentile at LNMIIT, Jaipur</li>
+	<li>Awarded Certificate of Appreciation for <b>Google Summer of Code’ 18</b> at LNMIIT, Jaipur</li>
+	<li>Earned <b>Silver Medal at State level Mental Ability Competition (Abacus)</b></li>
 </ul>
 
 <h2>Tech Conferences</h2>
@@ -37,15 +40,15 @@ layout: page
 
 <ul class="skill-list">
 	<li> <b>Programming Languages:</b> Python, JavaScript, C, Java, MATLAB </li>
-    <li> <b>Artificial Intelligence:</b> Machine Learning, Deep Learning, Computer Vision, NLP </li>
-	<li> <b>Tools:</b> Keras, TensorFlow, scikit-learn, Numpy, Pandas, Matplotlib and Seaborn </li>
-	<li> <b>Frameworks:</b> Flask (Python), AngularJS, ReactJS, Electron and Node.js (JavaScript) </li>
+    <li> <b>Artificial Intelligence:</b> Machine Learning, Deep Learning, Natural Language Processing </li>
+	<li> <b>Tools:</b> Keras, TensorFlow, Scikit-Learn, Numpy, Pandas, Matplotlib, and Seaborn </li>
+	<li> <b>Frameworks:</b> Flask (Python), AngularJS, ReactJS, and Node.js (JavaScript) </li>
 	<li> <b>Database:</b> MySQL, SQLite and MongoDB and Redis (NoSQL) </li>
 	<li> <b>Version Control:</b> Git and Github </li>
 	<li> <b>Other Tools:</b> Docker, Jenkins, Terraform, Puppet</li>
 </ul>
 
-<h2>Projects</h2>
+<!-- <h2>Projects</h2>
 
 <ul>
 	<li><a href="https://github.com/vibhor98/Slack_bot">Slack Bot</a></li>
@@ -55,4 +58,4 @@ layout: page
 	<li><a href="https://github.com/vibhor98/Sign-Language-Predictor">Sign Language Predictor</a></li>
 	<li><a href="https://github.com/vibhor98/German-Credit-Dataset">German Credit Dataset Analysis</a></li>
 	<li><a href="https://github.com/vibhor98/Tracking-error-Optimization">Tracking error optimizer</a></li>
-</ul>
+</ul> -->
