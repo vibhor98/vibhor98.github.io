@@ -14,15 +14,15 @@ layout: page
 I have been fortunate to contribute to a wide range of research directions, including machine learning, natural language processing, computational social science, and web privacy and security and have published in top-tier conferences including AAAI ICWSM, ACM WebSci, and PyCon US. For the full list of publications, please refer to my <a href="https://scholar.google.com/citations?user=c5PgkqEAAAAJ&hl=en">Google Scholar</a> profile.
 
 <ul>
-	<li><b>Under the Spotlight: Web Tracking in Indian Partisan News Websites</b> [<a href="">Paper</a>][<a href="">Dataset</a>][<a href="">GitHub</a>] <br/>
+	<li><b>Under the Spotlight: Web Tracking in Indian Partisan News Websites</b> [<a href="https://ojs.aaai.org/index.php/ICWSM/article/view/18038">Paper</a>][<a href="https://nms.kcl.ac.uk/netsys/datasets/india-tracking/">Dataset</a>][<a href="https://github.com/vibhor98/Web-Tracking-in-Indian-Partisan-News-Websites">GitHub</a>] <br/>
 		<b>Vibhor Agarwal</b>, Yash Vekaria, Pushkal Agarwal, Sangeeta Mahapatra, Shounak Set, Sakthi Balan, Nishanth Sastry, and Nicolas Kourtellis <br/>
 		<i>15th International AAAI Conference on Web and Social Media (ICWSM 2021)</i>
 	</li>
-	<li><b>Differential Tracking Across Topical Webpages of Indian News Media</b> [<a href="">Paper</a>][<a href="">Dataset</a>][<a href="">GitHub</a>] <br/>
+	<li><b>Differential Tracking Across Topical Webpages of Indian News Media</b> [<a href="https://dl.acm.org/doi/abs/10.1145/3447535.3462497">Paper</a>][<a href="https://nms.kcl.ac.uk/netsys/datasets/india-topic/">Dataset</a>][<a href="https://github.com/Yash-Vekaria/Topical-Tracking-Indian-News-Websites">GitHub</a>] <br/>
 		Yash Vekaria, <b>Vibhor Agarwal</b>, Pushkal Agarwal, Sangeeta Mahapatra, Sakthi Balan Muthiah, Nishanth Sastry, and Nicolas Kourtellis <br/>
 		<i>13th ACM Web Science Conference (WebSci 2021)</i>
 	</li>
-	<li><b>A Metadata-based Event Detection Method using Temporal Herding Factor and Social Synchrony on Twitter Data</b> [<a href="">Paper</a>] <br/>
+	<li><b>A Metadata-based Event Detection Method using Temporal Herding Factor and Social Synchrony on Twitter Data</b> [<a href="https://link.springer.com/chapter/10.1007%2F978-3-030-75018-3_47">Paper</a>] <br/>
 		Nirmal Sivaraman, <b>Vibhor Agarwal</b>, Yash Vekaria, and Sakthi Balan <br/>
 		<i>15th International Conference on Research Challenges in Information Science (RCIS 2021)</i>
 	</li>
@@ -48,6 +48,10 @@ I have been fortunate to contribute to a wide range of research directions, incl
 <h2>Tech Talks & Conferences</h2>
 
 <ul>
+	<li> <b>ACL 2021:</b> Received Diveristy and Inclusion scholarship to attend this top NLP conference.</li>
+	<li> <b>SIGIR 2021:</b> Participated as a student volunteer in the conference.</li>
+	<li> <b>WebSci 2021:</b> Presented our paper "Differential Tracking Across Topical Webpages of Indian News Media".</li>
+	<li> <b>ICWSM 2021:</b> Presented our paper "Under the Spotlight: Web Tracking in Indian Partisan News Websites".</li>
 	<li> <b>PyCon US 2020 (PA, USA):</b> Poster presentation on <a href="https://drive.google.com/file/d/1ypYqT1QOWTN9C23mNzvKlshqdeHRF0WX/view?usp=sharing">Video 			Surveillance System for Female Security using Keras</a></li>
 	<li> <b>PyJaipur 2018 (Jaipur, India):</b> Talk on 'How to crack Google Summer of Code' and share my GSoC' 18 experiences.</li>
 </ul>
