@@ -14,15 +14,15 @@ layout: page
 I have been fortunate to contribute to a wide range of research directions, including machine learning, natural language processing, computational social science, and web privacy and security and have published in top-tier conferences including AAAI ICWSM, ACM WebSci, and PyCon US. For the full list of publications, please refer to my <a href="https://scholar.google.com/citations?user=c5PgkqEAAAAJ&hl=en">Google Scholar</a> profile.
 
 <ul>
-	<li><b>Under the Spotlight: Web Tracking in Indian Partisan News Websites</b> [<a href="https://ojs.aaai.org/index.php/ICWSM/article/view/18038">Paper</a>][<a href="https://nms.kcl.ac.uk/netsys/datasets/india-tracking/">Dataset</a>][<a href="https://github.com/vibhor98/Web-Tracking-in-Indian-Partisan-News-Websites">GitHub</a>] <br/>
+	<li><b>Under the Spotlight: Web Tracking in Indian Partisan News Websites  [<a href="https://ojs.aaai.org/index.php/ICWSM/article/view/18038">Paper</a>]  [<a href="https://nms.kcl.ac.uk/netsys/datasets/india-tracking/">Dataset</a>]  [<a href="https://github.com/vibhor98/Web-Tracking-in-Indian-Partisan-News-Websites">GitHub</a>]</b> <br/>
 		<b>Vibhor Agarwal</b>, Yash Vekaria, Pushkal Agarwal, Sangeeta Mahapatra, Shounak Set, Sakthi Balan, Nishanth Sastry, and Nicolas Kourtellis <br/>
 		<i>15th International AAAI Conference on Web and Social Media (ICWSM 2021)</i>
 	</li>
-	<li><b>Differential Tracking Across Topical Webpages of Indian News Media</b> [<a href="https://dl.acm.org/doi/abs/10.1145/3447535.3462497">Paper</a>][<a href="https://nms.kcl.ac.uk/netsys/datasets/india-topic/">Dataset</a>][<a href="https://github.com/Yash-Vekaria/Topical-Tracking-Indian-News-Websites">GitHub</a>] <br/>
+	<li><b>Differential Tracking Across Topical Webpages of Indian News Media  [<a href="https://dl.acm.org/doi/abs/10.1145/3447535.3462497">Paper</a>]  [<a href="https://nms.kcl.ac.uk/netsys/datasets/india-topic/">Dataset</a>]  [<a href="https://github.com/Yash-Vekaria/Topical-Tracking-Indian-News-Websites">GitHub</a>] </b> <br/>
 		Yash Vekaria, <b>Vibhor Agarwal</b>, Pushkal Agarwal, Sangeeta Mahapatra, Sakthi Balan Muthiah, Nishanth Sastry, and Nicolas Kourtellis <br/>
 		<i>13th ACM Web Science Conference (WebSci 2021)</i>
 	</li>
-	<li><b>A Metadata-based Event Detection Method using Temporal Herding Factor and Social Synchrony on Twitter Data</b> [<a href="https://link.springer.com/chapter/10.1007%2F978-3-030-75018-3_47">Paper</a>] <br/>
+	<li><b>A Metadata-based Event Detection Method using Temporal Herding Factor and Social Synchrony on Twitter Data  [<a href="https://link.springer.com/chapter/10.1007%2F978-3-030-75018-3_47">Paper</a>]</b> <br/>
 		Nirmal Sivaraman, <b>Vibhor Agarwal</b>, Yash Vekaria, and Sakthi Balan <br/>
 		<i>15th International Conference on Research Challenges in Information Science (RCIS 2021)</i>
 	</li>
@@ -43,6 +43,23 @@ I have been fortunate to contribute to a wide range of research directions, incl
 	<li>Awarded <b>Meritorious Certification and Scholarship</b> for securing position in top 1 percentile at LNMIIT, Jaipur</li>
 	<li>Awarded Certificate of Appreciation for <b>Google Summer of Code’ 18</b> at LNMIIT, Jaipur</li>
 	<li>Earned <b>Silver Medal at State level Mental Ability Competition (Abacus)</b></li>
+</ul>
+
+<h2>Work Experience</h2>
+
+<ul>
+	<li><b>The Alan Turing Institute</b> (Jul - Sep 2021) <br/>
+		<i>Visiting Researcher, Data Study Group</i>
+	</li>
+	<li><b>Media.net (Directi)</b> (Jan 2020 - Jun 2021) <br/>
+		<i>Site Reliability Engineer</i>
+	</li>
+	<li><b>SLK Software</b> (May - Jul 2019) <br/>
+		<i>Software Engineering Internship</i>
+	</li>
+	<li><b>Google Summer of Code 2018</b> (May - Aug 2018) <br/>
+		<i>Open Source Developer at The Oppia Foundation</i>
+	</li>
 </ul>
 
 <h2>Tech Talks & Conferences</h2>
