@@ -11,25 +11,41 @@ layout: page
 
 <h2>Research Publications</h2>
 
+I have been fortunate to contribute to a wide range of research directions, including machine learning, natural language processing, computational social science, and web privacy and security and have published in top-tier conferences including AAAI ICWSM, ACM WebSci, and PyCon US. For the full list of publications, please refer to my <a href="https://scholar.google.com/citations?user=c5PgkqEAAAAJ&hl=en">Google Scholar</a> profile.
+
 <ul>
-	<li>Vibhor Agarwal. Video Surveillance System for Female Security using Keras. Poster presented at The PyCon US 2020, PA, USA.</li>
-	<li>Vibhor Agarwal, Yash Vekaria, Pushkal Agarwal, Shounak Set, Sangeeta Mahapatra, Sakthi Balan, Nishanth Sastry, and Nicolas Kourtellis. Under the Spotlight: 		Web Tracking in Indian Partisan News Websites. Submitted to The Web Conference (WWW 2021).</li>
-	<li>Nirmal Sivaraman, Vibhor Agarwal, Yash Vekaria, and Sakthi Balan. Hypothesizing “Peak + Herd = Event”: A Meta-Data based Event Detection Method in Twitter 			using Temporal Herding Factor. Submitted to WSDM 2021.</li>
+	<li><b>Under the Spotlight: Web Tracking in Indian Partisan News Websites</b> [<a href="">Paper</a>][<a href="">Dataset</a>][<a href="">GitHub</a>] <br/>
+		<b>Vibhor Agarwal</b>, Yash Vekaria, Pushkal Agarwal, Sangeeta Mahapatra, Shounak Set, Sakthi Balan, Nishanth Sastry, and Nicolas Kourtellis <br/>
+		<i>15th International AAAI Conference on Web and Social Media (ICWSM 2021)</i>
+	</li>
+	<li><b>Differential Tracking Across Topical Webpages of Indian News Media</b> [<a href="">Paper</a>][<a href="">Dataset</a>][<a href="">GitHub</a>] <br/>
+		Yash Vekaria, <b>Vibhor Agarwal</b>, Pushkal Agarwal, Sangeeta Mahapatra, Sakthi Balan Muthiah, Nishanth Sastry, and Nicolas Kourtellis <br/>
+		<i>13th ACM Web Science Conference (WebSci 2021)</i>
+	</li>
+	<li><b>A Metadata-based Event Detection Method using Temporal Herding Factor and Social Synchrony on Twitter Data</b> [<a href="">Paper</a>] <br/>
+		Nirmal Sivaraman, <b>Vibhor Agarwal</b>, Yash Vekaria, and Sakthi Balan <br/>
+		<i>15th International Conference on Research Challenges in Information Science (RCIS 2021)</i>
+	</li>
+	<li><b>Video Surveillance System for Female Security using Keras</b> <br/>
+		<b>Vibhor Agarwal</b> <br/>
+		<i>Poster presented at The PyCon US 2020, PA, USA</i>
+	</li>
 </ul>
 
 <h2>Awards</h2>
 
 <ul>
+	<li>Received <b>Ultimate Web Science Quiz Award</b> at ACM WebSci 2021.</li>
 	<li>Received funded <b>PhD studentship</b> at University of Surrey, UK.</li>
 	<li>Received the <b>Best Bachelor’s Thesis Award</b> in the graduated class of 2020 at LNMIIT, Jaipur, India.</li>
 	<li>Awarded <b>PyCon US 2020 scholarship</b> to attend the largest Python Conference in the world and present my poster titled, "Video Surveillance System for Female Security using Keras"</li>
-	<li><b>Quarter Finalist in India Innovation Challenge Design Contest’ 2018</b> organised by Department of Science and Technology and IIM Bangalore for our robust ‘Pro-		active Video Surveillance System’</li>
+	<li><b>Quarter Finalist in India Innovation Challenge Design Contest’ 2018</b> organised by Department of Science and Technology and IIM Bangalore for our robust ‘Pro-active Video Surveillance System’</li>
 	<li>Awarded <b>Meritorious Certification and Scholarship</b> for securing position in top 1 percentile at LNMIIT, Jaipur</li>
 	<li>Awarded Certificate of Appreciation for <b>Google Summer of Code’ 18</b> at LNMIIT, Jaipur</li>
 	<li>Earned <b>Silver Medal at State level Mental Ability Competition (Abacus)</b></li>
 </ul>
 
-<h2>Tech Conferences</h2>
+<h2>Tech Talks & Conferences</h2>
 
 <ul>
 	<li> <b>PyCon US 2020 (PA, USA):</b> Poster presentation on <a href="https://drive.google.com/file/d/1ypYqT1QOWTN9C23mNzvKlshqdeHRF0WX/view?usp=sharing">Video 			Surveillance System for Female Security using Keras</a></li>
