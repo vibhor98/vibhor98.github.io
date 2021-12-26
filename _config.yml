@@ -1,6 +1,6 @@
 # main text of home
 name: Vibhor Agarwal
-bio: PhD Researcher at University of Surrey, UK | Interested in ML, NLP, PrivacyML, and Computational Social Science | Ex-Site Reliability Engineer @Media.net, GSoC'18 @Oppia
+bio: PhD Researcher at University of Surrey, UK | Interested in ML, NLP, GraphML, and Computational Social Science | Ex-Site Reliability Engineer @Media.net, GSoC'18 @Oppia
 
 # twitter summary info
 description: A blog about technology and stuff related.
@@ -56,7 +56,7 @@ email: agarwalvibhor84@gmail.com
 authors:
     vibhor98:
         name: Vibhor Agarwal
-        bio: PhD Researcher at University of Surrey, UK | Interested in ML, NLP, PrivacyML, and Computational Social Science | Ex-Site Reliability Engineer @Media.net, GSoC'18 @Oppia
+        bio: PhD Researcher at University of Surrey, UK | Interested in ML, NLP, GraphML, and Computational Social Science | Ex-Site Reliability Engineer @Media.net, GSoC'18 @Oppia
         external-image: false
         picture: assets/images/vibh_profile.jpg
         twitter: vibhor711
