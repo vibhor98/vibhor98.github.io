@@ -4,16 +4,24 @@ layout: page
 ---
 ![Profile Image](assets/images/vibh_profile.jpg)
 
-<p>Hello World! I am Vibhor Agarwal, a PhD Researcher in Computer Science at University of Surrey, UK, working with <a href="https://nishrs.github.io/">Prof. Nishanth Sastry</a>. My research interests are in Machine Learning and Natural Language Processing to analyze online discussions, leverage GraphML for large-scale moderation of online debates, hate speech and misogyny detection. Besides, I am also interested in Privacy-preserving Machine Learning, Computational Social Science, and Privacy on the Web.</p>
+<p>Hello World! I am Vibhor Agarwal, a PhD Researcher in Computer Science at University of Surrey, UK, working with <a href="https://nishrs.github.io/">Prof. Nishanth Sastry</a>. My research interests are at the intersection of Graph Machine Learning and Natural Language Processing to improve the language understanding of online conversations, leverage GraphML for moderation of online debates, and hate speech detection. Besides, I am also interested in Privacy-preserving Machine Learning, Computational Social Science, and Privacy on the Web.</p>
 
-<p>Previously, I worked as Site Reliability Engineer at Media.net (Directi) in Mumbai, India. In June 2020, I graduated with a Computer Science and Engineering (B. Tech.) degree from The LNMIIT, Jaipur. My honours include Best Bachelor's Thesis Award and an overall CGPA of 9.45 out of 10. I was also a Google Summer of Code developer in 2018 and contributed to the open source project, Oppia.</p>
+<p>Previously, I worked as a Site Reliability Engineer at Media.net (Directi) in Mumbai, India for 1.5 years. In June 2020, I graduated with a Computer Science and Engineering (B. Tech.) degree from The LNMIIT, Jaipur. My honours include Best Bachelor's Thesis Award and an overall CGPA of 9.45 out of 10. I was also a Google Summer of Code developer in 2018 and contributed to the open source project, Oppia.</p>
 
 
 <h2>Research Publications</h2>
 
-I have been fortunate to contribute to a wide range of research directions, including machine learning, natural language processing, computational social science, and web privacy and security and have published in top-tier conferences including AAAI ICWSM, ACM WebSci, and PyCon US. For the full list of publications, please refer to my <a href="https://scholar.google.com/citations?user=c5PgkqEAAAAJ&hl=en">Google Scholar</a> profile.
+I have been fortunate to contribute to a wide range of research directions, including graph machine learning, natural language processing, computational social science, and web privacy and have published in top-tier conferences including TheWebConf, AAAI ICWSM, ACM WebSci, and PyCon US. For the full list of publications, please refer to my <a href="https://scholar.google.com/citations?user=c5PgkqEAAAAJ&hl=en">Google Scholar</a> profile.
 
 <ul>
+	<li><b>GraphNLI: A Graph-based Natural Language Inference Model for Polarity Prediction in Online Debates  [<a href="https://arxiv.org/pdf/2202.08175.pdf">Paper</a>]  [<a href="https://github.com/vibhor98/GraphNLI">GitHub</a>]</b> <br/>
+		<b>Vibhor Agarwal</b>, Sagar Joglekar, Anthony P. Young, and Nishanth Sastry <br/>
+		<i>The ACM Web Conference (TheWebConf 2022)</i>
+	</li>
+	<li><b>"Way back then": A Data-driven View of 25+ years of Web Evolution  [<a href="https://arxiv.org/pdf/2202.08239.pdf">Paper</a>]  [<a href="https://github.com/vibhor98/wayback-web-history/tree/main/wayback_datasets">Dataset</a>]  [<a href="https://github.com/vibhor98/wayback-web-history">GitHub</a>]</b> <br/>
+		<b>Vibhor Agarwal</b> and Nishanth Sastry <br/>
+		<i>The ACM Web Conference (TheWebConf 2022)</i>
+	</li>
 	<li><b>Under the Spotlight: Web Tracking in Indian Partisan News Websites  [<a href="https://ojs.aaai.org/index.php/ICWSM/article/view/18038">Paper</a>]  [<a href="https://nms.kcl.ac.uk/netsys/datasets/india-tracking/">Dataset</a>]  [<a href="https://github.com/vibhor98/Web-Tracking-in-Indian-Partisan-News-Websites">GitHub</a>]</b> <br/>
 		<b>Vibhor Agarwal</b>, Yash Vekaria, Pushkal Agarwal, Sangeeta Mahapatra, Shounak Set, Sakthi Balan, Nishanth Sastry, and Nicolas Kourtellis <br/>
 		<i>15th International AAAI Conference on Web and Social Media (ICWSM 2021)</i>
