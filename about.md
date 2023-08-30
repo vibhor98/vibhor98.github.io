@@ -11,23 +11,35 @@ layout: page
 
 <h2>Research Publications</h2>
 
-I have been fortunate to contribute to a wide range of research directions, including graph machine learning, natural language processing, computational social science, and web privacy and have published in top-tier conferences including TheWebConf, AAAI ICWSM, ACM WebSci, and PyCon US. For the full list of publications, please refer to my <a href="https://scholar.google.com/citations?user=c5PgkqEAAAAJ&hl=en">Google Scholar</a> profile.
+I have been fortunate to contribute to a wide range of research directions, including natural language processing, graph machine learning, computational social science, and web privacy and have published in top-tier conferences including ACM Web Conference, ACL, CIKM, AAAI ICWSM, ACM Web Science, etc. For the full list of publications, please refer to my <a href="https://scholar.google.com/citations?user=c5PgkqEAAAAJ&hl=en">Google Scholar</a> profile.
 
 <ul>
-	<li><b>GraphNLI: A Graph-based Natural Language Inference Model for Polarity Prediction in Online Debates  [<a href="https://arxiv.org/pdf/2202.08175.pdf">Paper</a>]  [<a href="https://github.com/vibhor98/GraphNLI">GitHub</a>]</b> <br/>
+	<li><b>GraphNLI: A Graph-based Natural Language Inference Model for Polarity Prediction in Online Debates  [<a href="https://dl.acm.org/doi/abs/10.1145/3485447.3512144">Paper</a>]  [<a href="https://netsys.surrey.ac.uk/datasets/graphnli/">Dataset</a>]  [<a href="https://github.com/vibhor98/GraphNLI">GitHub</a>]</b> <br/>
 		<b>Vibhor Agarwal</b>, Sagar Joglekar, Anthony P. Young, and Nishanth Sastry <br/>
 		<i>The ACM Web Conference (TheWebConf 2022)</i>
+	</li>
+	<li><b>A Graph-Based Context-Aware Model to Understand Online Conversations  [<a href="https://arxiv.org/pdf/2211.09207">Paper</a>]  [<a href="https://netsys.surrey.ac.uk/datasets/graphnli/">Dataset</a>]  [<a href="https://github.com/vibhor98/GraphNLI">GitHub</a>]</b> <br/>
+		<b>Vibhor Agarwal</b>, Anthony P. Young, Sagar Joglekar, and Nishanth Sastry <br/>
+		<i>ACM Transactions on the Web (TWEB 2023)</i>
+	</li>
+	<li><b>Annobert: Effectively Representing Multiple Annotators’ Label Choices to Improve Hate Speech Detection  [<a href="https://ojs.aaai.org/index.php/ICWSM/article/view/22198/21977">Paper</a>]  [<a href="https://github.com/socsys/AnnoBERT">GitHub</a>]</b> <br/>
+		Wenjie Yin*, <b>Vibhor Agarwal</b>*, Aiqi Jiang*, Arkaitz Zubiaga, and Nishanth Sastry <br/>
+		<i>International AAAI Conference on Web and Social Media (ICWSM 2023)</i>
+	</li>
+	<li><b>Improving the Detection of Multilingual Online Attacks with Rich Social Media Data from Singapore  [<a href="https://aclanthology.org/2023.acl-long.711.pdf">Paper</a>]</b> <br/>
+		Janosch Haber, Bertie Vidgen, Matthew Chapman, <b>Vibhor Agarwal</b>, Roy Ka-Wei Lee, Yong Keong Yap, Paul Röttger <br/>
+		<i>Association for Computational Linguistics (ACL 2023)</i>
 	</li>
 	<li><b>"Way back then": A Data-driven View of 25+ years of Web Evolution  [<a href="https://arxiv.org/pdf/2202.08239.pdf">Paper</a>]  [<a href="https://github.com/vibhor98/wayback-web-history/tree/main/wayback_datasets">Dataset</a>]  [<a href="https://github.com/vibhor98/wayback-web-history">GitHub</a>]</b> <br/>
 		<b>Vibhor Agarwal</b> and Nishanth Sastry <br/>
 		<i>The ACM Web Conference (TheWebConf 2022)</i>
 	</li>
 	<li><b>Under the Spotlight: Web Tracking in Indian Partisan News Websites  [<a href="https://ojs.aaai.org/index.php/ICWSM/article/view/18038">Paper</a>]  [<a href="https://nms.kcl.ac.uk/netsys/datasets/india-tracking/">Dataset</a>]  [<a href="https://github.com/vibhor98/Web-Tracking-in-Indian-Partisan-News-Websites">GitHub</a>]</b> <br/>
-		<b>Vibhor Agarwal</b>, Yash Vekaria, Pushkal Agarwal, Sangeeta Mahapatra, Shounak Set, Sakthi Balan, Nishanth Sastry, and Nicolas Kourtellis <br/>
+		<b>Vibhor Agarwal</b>*, Yash Vekaria*, Pushkal Agarwal, Sangeeta Mahapatra, Shounak Set, Sakthi Balan, Nishanth Sastry, and Nicolas Kourtellis <br/>
 		<i>15th International AAAI Conference on Web and Social Media (ICWSM 2021)</i>
 	</li>
 	<li><b>Differential Tracking Across Topical Webpages of Indian News Media  [<a href="https://dl.acm.org/doi/abs/10.1145/3447535.3462497">Paper</a>]  [<a href="https://nms.kcl.ac.uk/netsys/datasets/india-topic/">Dataset</a>]  [<a href="https://github.com/Yash-Vekaria/Topical-Tracking-Indian-News-Websites">GitHub</a>] </b> <br/>
-		Yash Vekaria, <b>Vibhor Agarwal</b>, Pushkal Agarwal, Sangeeta Mahapatra, Sakthi Balan Muthiah, Nishanth Sastry, and Nicolas Kourtellis <br/>
+		Yash Vekaria*, <b>Vibhor Agarwal</b>*, Pushkal Agarwal, Sangeeta Mahapatra, Sakthi Balan Muthiah, Nishanth Sastry, and Nicolas Kourtellis <br/>
 		<i>13th ACM Web Science Conference (WebSci 2021)</i>
 	</li>
 	<li><b>A Metadata-based Event Detection Method using Temporal Herding Factor and Social Synchrony on Twitter Data  [<a href="https://link.springer.com/chapter/10.1007%2F978-3-030-75018-3_47">Paper</a>]</b> <br/>
@@ -56,6 +68,15 @@ I have been fortunate to contribute to a wide range of research directions, incl
 <h2>Work Experience</h2>
 
 <ul>
+	<li><b>Georgia Institute of Technology</b> (Jul - Aug 2023) <br/>
+		<i>Visiting Researcher</i> (Atlanta, Georgia, USA)
+	</li>
+	<li><b>Queen Mary University of London</b> (Oct 2022 - Apr 2023) <br/>
+		<i>Visiting Researcher</i> (London, UK)
+	</li>
+	<li><b>Rewire Online</b> (Jul - Sep 2022) <br/>
+		<i>NLP Research Internship</i> (London, UK)
+	</li>
 	<li><b>The Alan Turing Institute</b> (Jul - Sep 2021) <br/>
 		<i>Visiting Researcher, Data Study Group</i>
 	</li>
@@ -84,9 +105,9 @@ I have been fortunate to contribute to a wide range of research directions, incl
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li> <b>Programming Languages:</b> Python, JavaScript, C, Java, MATLAB </li>
+	<li> <b>Programming Languages:</b> Python, Java, JavaScript, C, MATLAB </li>
     <li> <b>Artificial Intelligence:</b> Machine Learning, Deep Learning, Natural Language Processing </li>
-	<li> <b>Tools:</b> Keras, TensorFlow, Scikit-Learn, Numpy, Pandas, Matplotlib, and Seaborn </li>
+	<li> <b>Tools:</b> PyTorch, TensorFlow, DGL, Scikit-Learn, Numpy, Pandas, Matplotlib, and Seaborn </li>
 	<li> <b>Frameworks:</b> Flask (Python), AngularJS, ReactJS, and Node.js (JavaScript) </li>
 	<li> <b>Database:</b> MySQL, SQLite and MongoDB and Redis (NoSQL) </li>
 	<li> <b>Version Control:</b> Git and Github </li>
