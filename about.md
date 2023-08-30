@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image](assets/images/vibh_profile.jpg)
 
-<p>Hello World! I am Vibhor Agarwal, a PhD Researcher in Computer Science at University of Surrey, UK, working with <a href="https://nishrs.github.io/">Prof. Nishanth Sastry</a>. My research interests are at the intersection of Graph Machine Learning and Natural Language Processing to improve the language understanding of online conversations, leverage GraphML for moderation of online debates, and hate speech detection. Besides, I am also interested in Privacy-preserving Machine Learning, Computational Social Science, and Privacy on the Web.</p>
+<p>Hello World! I am Vibhor Agarwal, a PhD Researcher at University of Surrey, UK, working with <a href="https://nishrs.github.io/">Prof. Nishanth Sastry</a>. My research interests are in Natural Language Processing and Graph Machine Learning to model and understand Online Conversations in social media by developing graph-based models and tackle online harms such as hate speech, misinformation, etc. I am currently a Visiting Researcher at Georgia Institute of Technology, USA and was a visiting researcher at Queen Mary University of London in the past.</p>
 
 <p>Previously, I worked as a Site Reliability Engineer at Media.net (Directi) in Mumbai, India for 1.5 years. In June 2020, I graduated with a Computer Science and Engineering (B. Tech.) degree from The LNMIIT, Jaipur. My honours include Best Bachelor's Thesis Award and an overall CGPA of 9.45 out of 10. I was also a Google Summer of Code developer in 2018 and contributed to the open source project, Oppia.</p>
 
@@ -52,9 +52,10 @@ I have been fortunate to contribute to a wide range of research directions, incl
 	</li>
 </ul>
 
-<h2>Awards</h2>
+<h2>Awards & Achievements</h2>
 
 <ul>
+	<li>Received <b>Turing Grant</b> for visiting Georgia Tech in Summer 2023.</li>
 	<li>Received <b>Ultimate Web Science Quiz Award</b> at ACM WebSci 2021.</li>
 	<li>Received funded <b>PhD studentship</b> at University of Surrey, UK.</li>
 	<li>Received the <b>Best Bachelor’s Thesis Award</b> in the graduated class of 2020 at LNMIIT, Jaipur, India.</li>
@@ -78,23 +79,27 @@ I have been fortunate to contribute to a wide range of research directions, incl
 		<i>NLP Research Internship</i> (London, UK)
 	</li>
 	<li><b>The Alan Turing Institute</b> (Jul - Sep 2021) <br/>
-		<i>Visiting Researcher, Data Study Group</i>
+		<i>Visiting Researcher, Data Study Group</i> (Remote)
 	</li>
 	<li><b>Media.net (Directi)</b> (Jan 2020 - Jun 2021) <br/>
-		<i>Site Reliability Engineer</i>
+		<i>Site Reliability Engineer</i> (Mumbai, India)
 	</li>
 	<li><b>SLK Software</b> (May - Jul 2019) <br/>
-		<i>Software Engineering Internship</i>
+		<i>Software Engineering Internship</i> (Bengaluru, India)
 	</li>
 	<li><b>Google Summer of Code 2018</b> (May - Aug 2018) <br/>
-		<i>Open Source Developer at The Oppia Foundation</i>
+		<i>Open Source Developer at The Oppia Foundation</i> (Remote)
 	</li>
 </ul>
 
-<h2>Tech Talks & Conferences</h2>
+<h2>Research Talks & Conferences</h2>
 
 <ul>
-	<li> <b>ACL 2021:</b> Received Diveristy and Inclusion scholarship to attend this top NLP conference.</li>
+	<li> <b>GeorgiaTech:</b> Gave a research talk in August 2023.</li>
+	<li> <b>QMUL:</b> Gave a research talk in December 2022.</li>
+	<li> <b>ELLIS Cambridge Summer School:</b> Presented my poster in July 2022.</li>
+	<li> <b>King's College London:</b> Gave a research talk in April 2022.</li>
+	<li> <b>ACL 2021, 2022, 2023:</b> Received Diveristy and Inclusion scholarship to attend this top NLP conference.</li>
 	<li> <b>SIGIR 2021:</b> Participated as a student volunteer in the conference.</li>
 	<li> <b>WebSci 2021:</b> Presented our paper "Differential Tracking Across Topical Webpages of Indian News Media".</li>
 	<li> <b>ICWSM 2021:</b> Presented our paper "Under the Spotlight: Web Tracking in Indian Partisan News Websites".</li>
