@@ -1,6 +1,6 @@
 # main text of home
 name: Vibhor Agarwal
-bio: PhD @University of Surrey, UK | Visiting Researcher @Georgia Tech | Interested in NLP, Graphs, and Computational Social Science | Ex-SRE @Media.net, GSoC'18 @Oppia
+bio: PhD @University of Surrey, UK | Visiting Researcher @Georgia Tech, @QMUL | Interested in NLP, Graphs, and Computational Social Science | Ex-NLP Research @JP Morgan AI Research, SRE @Media.net, GSoC'18 @Oppia
 
 # twitter summary info
 description: A blog about technology and stuff related.
@@ -14,7 +14,7 @@ picture: assets/images/vibh_profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: assets/Vibhor_Resume.pdf
+resume-url: assets/resume_vibhor.pdf
 
 url: http://vibhor98.github.io
 
@@ -56,7 +56,7 @@ email: v.agarwal@surrey.ac.uk
 authors:
     vibhor98:
         name: Vibhor Agarwal
-        bio: PhD @University of Surrey, UK | Visiting Researcher @Georgia Tech | Interested in NLP, Graphs, and Computational Social Science | Ex-SRE @Media.net, GSoC'18 @Oppia
+        bio: PhD @University of Surrey, UK | Visiting Researcher @Georgia Tech, @QMUL | Interested in NLP, Graphs, and Computational Social Science | Ex-NLP Research @JP Morgan AI Research, SRE @Media.net, GSoC'18 @Oppia
         external-image: false
         picture: assets/images/vibh_profile.jpg
         twitter: vibhor711
