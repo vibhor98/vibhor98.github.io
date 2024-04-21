@@ -11,7 +11,7 @@ layout: page
 
 <h2>Research Publications</h2>
 
-I have been fortunate to contribute to a wide range of research directions, including natural language processing, graph machine learning, computational social science, and web privacy and have published in top-tier conferences including ACM Web Conference, ACL, CIKM, AAAI ICWSM, ACM Web Science, etc. For the full list of publications, please refer to my <a href="https://scholar.google.com/citations?user=c5PgkqEAAAAJ&hl=en">Google Scholar</a> profile.
+I have been fortunate to contribute to a wide range of research directions, including natural language processing, LLMs, graph machine learning, and computational social science and have published in top-tier conferences and journals including ACM Web Conference (WWW), ACM Transactions on the Web, ACL, CIKM, AAAI ICWSM, ACM Web Science, etc. For the full list of publications, please refer to my <a href="https://scholar.google.com/citations?user=c5PgkqEAAAAJ&hl=en">Google Scholar</a> profile.
 
 <ul>
 	<li><b>GraphNLI: A Graph-based Natural Language Inference Model for Polarity Prediction in Online Debates  [<a href="https://dl.acm.org/doi/abs/10.1145/3485447.3512144">Paper</a>]  [<a href="https://netsys.surrey.ac.uk/datasets/graphnli/">Dataset</a>]  [<a href="https://github.com/vibhor98/GraphNLI">GitHub</a>]</b> <br/>
@@ -21,6 +21,10 @@ I have been fortunate to contribute to a wide range of research directions, incl
 	<li><b>A Graph-Based Context-Aware Model to Understand Online Conversations  [<a href="https://arxiv.org/pdf/2211.09207">Paper</a>]  [<a href="https://netsys.surrey.ac.uk/datasets/graphnli/">Dataset</a>]  [<a href="https://github.com/vibhor98/GraphNLI">GitHub</a>]</b> <br/>
 		<b>Vibhor Agarwal</b>, Anthony P. Young, Sagar Joglekar, and Nishanth Sastry <br/>
 		<i>ACM Transactions on the Web (TWEB 2023)</i>
+	</li>
+	<li><b>Decentralised Moderation for Interoperable Social Networks: A Conversation-based Approach for Pleroma and the Fediverse  [<a href="https://arxiv.org/pdf/2404.03048.pdf">Paper</a>]  [<a href="https://github.com/vibhor98/decentralised-moderation-pleroma">GitHub</a>]</b> <br/>
+		<b>Vibhor Agarwal</b>, Aravindh Raman, Nishanth Sastry, Ahmed M. Abdelmoniem, Gareth Tyson, Ignacio Castro <br/>
+		<i>International AAAI Conference on Web and Social Media (ICWSM 2024)</i>
 	</li>
 	<li><b>Annobert: Effectively Representing Multiple Annotators’ Label Choices to Improve Hate Speech Detection  [<a href="https://ojs.aaai.org/index.php/ICWSM/article/view/22198/21977">Paper</a>]  [<a href="https://github.com/socsys/AnnoBERT">GitHub</a>]</b> <br/>
 		Wenjie Yin*, <b>Vibhor Agarwal</b>*, Aiqi Jiang*, Arkaitz Zubiaga, and Nishanth Sastry <br/>
@@ -69,6 +73,9 @@ I have been fortunate to contribute to a wide range of research directions, incl
 <h2>Work Experience</h2>
 
 <ul>
+	<li><b>JP Morgan AI Research</b> (Sep - Dec 2023) <br/>
+		<i>NLP Research Internship</i> (London, UK)
+	</li>
 	<li><b>Georgia Institute of Technology</b> (Jul - Aug 2023) <br/>
 		<i>Visiting Researcher</i> (Atlanta, Georgia, USA)
 	</li>
@@ -95,6 +102,7 @@ I have been fortunate to contribute to a wide range of research directions, incl
 <h2>Research Talks & Conferences</h2>
 
 <ul>
+	<li> <b>North Carolina State University:</b> Gave a research talk in AI Institute, NCSU in September 2023.</li>
 	<li> <b>GeorgiaTech:</b> Gave a research talk in August 2023.</li>
 	<li> <b>QMUL:</b> Gave a research talk in December 2022.</li>
 	<li> <b>ELLIS Cambridge Summer School:</b> Presented my poster in July 2022.</li>
