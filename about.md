@@ -4,10 +4,44 @@ layout: page
 ---
 ![Profile Image](assets/images/vibh_profile.jpg)
 
-<p>Hello World! I am Vibhor Agarwal, a final year PhD Researcher at University of Surrey, UK, working with <a href="https://nishrs.github.io/">Prof. Nishanth Sastry</a>. My research interests are in Natural Language Processing, Large Language Models and Graphs to model and understand online social media conversations by developing graph-based models to effectively capture conversational context and tackle online harms such as hate speech, misinformation, etc. I also work on LLMs for content moderation to rephrase hate speech into non-hate content without changing the meaning. I have also worked towards the safety of LLMs by detecting and mitigating problems such as hallucinations in code generation and also for healthcare queries. I have done NLP Research Internship at JP Morgan AI Research and Rewire. I was also a Visiting Researcher at Georgia Institute of Technology, USA and Queen Mary University of London in the past.</p>
+<p>Hello World! I am Vibhor Agarwal, a Research Scientist in the Responsible AI team at Nokia Bell Labs (Cambridge, UK), where I work at the intersection of NLP and AI safety to understand human-AI interactions and minimize harms and biases in LLMs to make them transparent and trustworthy. I hold a PhD in Natural Language Processing from the University of Surrey, advised by Prof. Nishanth Sastry, and have conducted research at JPMorgan AI Research, Georgia Tech, and Queen Mary University of London. Having held 3 years of professional experience and various research internships, I enjoy translating theoretical insights into scalable, industry-ready solutions and collaborating across research and engineering teams. I am open to collaborations and industrial research discussions in Responsible AI, NLP, and LLM safety.</p>
 
 <p>Previously, I worked as a Site Reliability Engineer at Media.net (Directi) in Mumbai, India for 1.5 years. In June 2020, I graduated with a Computer Science and Engineering (B. Tech.) degree from The LNMIIT, Jaipur. My honours include Best Bachelor's Thesis Award and an overall CGPA of 9.45 out of 10. I was also a Google Summer of Code developer in 2018 and contributed to the open source project, Oppia.</p>
 
+<h2>Work Experience</h2>
+
+<ul>
+	<li><b>Nokia Bell Labs</b> (Dec 2024 - Present) <br/>
+		<i>Research Scientist</i> (Cambridge, UK)
+	</li>
+	<li><b>Roku</b> (Jul - Sep 2024) <br/>
+		<i>Applied Science Internship</i> (Cambridge, UK)
+	</li>
+	<li><b>JP Morgan AI Research</b> (Sep - Dec 2023) <br/>
+		<i>NLP Research Internship</i> (London, UK)
+	</li>
+	<li><b>Georgia Institute of Technology</b> (Jul - Aug 2023) <br/>
+		<i>Visiting Researcher</i> (Atlanta, Georgia, USA)
+	</li>
+	<li><b>Queen Mary University of London</b> (Oct 2022 - Apr 2023) <br/>
+		<i>Visiting Researcher</i> (London, UK)
+	</li>
+	<li><b>Rewire Online</b> (Jul - Sep 2022) <br/>
+		<i>NLP Research Internship</i> (London, UK)
+	</li>
+	<li><b>The Alan Turing Institute</b> (Jul - Sep 2021) <br/>
+		<i>Visiting Researcher, Data Study Group</i> (Remote)
+	</li>
+	<li><b>Media.net (Directi)</b> (Jan 2020 - Jun 2021) <br/>
+		<i>Site Reliability Engineer</i> (Mumbai, India)
+	</li>
+	<li><b>SLK Software</b> (May - Jul 2019) <br/>
+		<i>Software Engineering Internship</i> (Bengaluru, India)
+	</li>
+	<li><b>Google Summer of Code 2018</b> (May - Aug 2018) <br/>
+		<i>Open Source Developer at The Oppia Foundation</i> (Remote)
+	</li>
+</ul>
 
 <h2>Research Publications</h2>
 
@@ -70,41 +104,13 @@ I have been fortunate to contribute to a wide range of research directions, incl
 	<li>Earned <b>Silver Medal at State level Mental Ability Competition (Abacus)</b></li>
 </ul>
 
-<h2>Work Experience</h2>
-
-<ul>
-	<li><b>JP Morgan AI Research</b> (Sep - Dec 2023) <br/>
-		<i>NLP Research Internship</i> (London, UK)
-	</li>
-	<li><b>Georgia Institute of Technology</b> (Jul - Aug 2023) <br/>
-		<i>Visiting Researcher</i> (Atlanta, Georgia, USA)
-	</li>
-	<li><b>Queen Mary University of London</b> (Oct 2022 - Apr 2023) <br/>
-		<i>Visiting Researcher</i> (London, UK)
-	</li>
-	<li><b>Rewire Online</b> (Jul - Sep 2022) <br/>
-		<i>NLP Research Internship</i> (London, UK)
-	</li>
-	<li><b>The Alan Turing Institute</b> (Jul - Sep 2021) <br/>
-		<i>Visiting Researcher, Data Study Group</i> (Remote)
-	</li>
-	<li><b>Media.net (Directi)</b> (Jan 2020 - Jun 2021) <br/>
-		<i>Site Reliability Engineer</i> (Mumbai, India)
-	</li>
-	<li><b>SLK Software</b> (May - Jul 2019) <br/>
-		<i>Software Engineering Internship</i> (Bengaluru, India)
-	</li>
-	<li><b>Google Summer of Code 2018</b> (May - Aug 2018) <br/>
-		<i>Open Source Developer at The Oppia Foundation</i> (Remote)
-	</li>
-</ul>
-
 <h2>Research Talks & Conferences</h2>
 
 <ul>
+	<li> <b>British Telecom (BT Group):</b> Gave a research talk in Responsible AI at BT in November 2025.</li>
 	<li> <b>North Carolina State University:</b> Gave a research talk in AI Institute, NCSU in September 2023.</li>
-	<li> <b>GeorgiaTech:</b> Gave a research talk in August 2023.</li>
-	<li> <b>QMUL:</b> Gave a research talk in December 2022.</li>
+	<li> <b>Georgia Institute of Technology:</b> Gave a research talk in August 2023.</li>
+	<li> <b>Queen Mary University of London:</b> Gave a research talk in December 2022.</li>
 	<li> <b>ELLIS Cambridge Summer School:</b> Presented my poster in July 2022.</li>
 	<li> <b>King's College London:</b> Gave a research talk in April 2022.</li>
 	<li> <b>ACL 2021, 2022, 2023:</b> Received Diveristy and Inclusion scholarship to attend this top NLP conference.</li>
